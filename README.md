@@ -24,5 +24,5 @@ There are some examples in this repository. The .brac file extension is used for
 Inspiration: [Video by VSCode](https://www.youtube.com/watch?v=he3uB8ddWNM)
 [Decoding bytes to string](https://stackoverflow.com/questions/17615414/how-to-convert-binary-string-to-normal-string-in-python3)
 [Convert binary to string](https://stackoverflow.com/questions/7396849/convert-binary-to-ascii-and-vice-versa)
-[Convert stringg to binary](https://stackoverflow.com/questions/18815820/how-to-convert-string-to-binary)
+[Convert string to binary](https://stackoverflow.com/questions/18815820/how-to-convert-string-to-binary)
 [Hexlify in binascii](https://www.educative.io/answers/what-is-binasciihexlify-in-python)
