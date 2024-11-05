@@ -11,6 +11,9 @@ Use the shell Python script to run Brackets code without using a file.
 Brackets decoder:
 Use the Brackets decoder Python script to convert Brackets into text.
 
+Brackets compiler:
+Use the Brackets compiler to take Python code and create Brackets code. (python compiler.py codetocompile.py output.brac).
+
 Brackets runner:
 Use the Brackets runner Python script to run Brackets files. Put the filepath after the command. (python runner.py code.brac).
 
