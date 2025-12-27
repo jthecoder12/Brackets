@@ -162,4 +162,5 @@ cython_debug/
 #.idea/
 
 localexamples
+webinterpreter/index.html
 
